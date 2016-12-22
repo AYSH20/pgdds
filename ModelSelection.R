@@ -6,6 +6,4 @@ step(null,scope = list(lower=null, upper=full),direction = "forward")
 step(full,scope = list(lower=null,upper=full),direction = "backward")
 step(full,scope = list(lower=null,upper=full),direction = "both")
 
-#BEST SUBSET REGRESSION
 
-install.packages("leaps")
